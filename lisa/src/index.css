@@ -139,7 +139,6 @@ button:not(:disabled):active { transform: translateY(1px) scale(.965); transitio
   button, .card, .resource-grid a, .modal, .modal-backdrop { animation: none !important; transition: none !important; }
 }
 
-
 .card, .hero, .building, .welcome, .resources {
   animation: fadeInUp 0.8s ease-out both;
   animation-timeline: view();
